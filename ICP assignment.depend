@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1655870071 source:c:\users\g5\desktop\university\notes\semester 2\introduction to c\assignments\main\application\icp assignment\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"todolist.h"
+	"myday.h"
+	"misc.h"
+
+1654186471 c:\users\g5\desktop\university\notes\semester 2\introduction to c\assignments\main\application\icp assignment\test.h
+
+1655906031 c:\users\g5\desktop\university\notes\semester 2\introduction to c\assignments\main\application\icp assignment\todolist.h
+
+1655885298 c:\users\g5\desktop\university\notes\semester 2\introduction to c\assignments\main\application\icp assignment\myday.h
+
+1654186460 source:c:\users\g5\desktop\university\notes\semester 2\introduction to c\assignments\main\application\icp assignment\test.c
+	"test.h"
+
+1655904641 c:\users\g5\desktop\university\notes\semester 2\introduction to c\assignments\main\application\icp assignment\misc.h
+
